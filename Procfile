@@ -1,1 +1,1 @@
-web: gunicorn cybertech.wsgi
+web: gunicorn cybertech.wsgi --log-file -
