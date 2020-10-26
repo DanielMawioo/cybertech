@@ -1,0 +1,15 @@
+{% load static %}
+
+{% include "mysite/head.html" %}
+
+<body>
+
+    {% include 'mysite/header.html' %}
+
+
+    {% block content %}
+    {% endblock content %}
+
+    {% include 'mysite/footer.html' %}
+
+</body>
