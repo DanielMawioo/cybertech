@@ -26,7 +26,7 @@ SECRET_KEY = 'rb21ecyb(ot-rkc(b5s2hraqgvl@_vrztqc*fl4upu801+(&$j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'cybertech.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'cybertechlabs.herokuapp.com']
 
 
 # Application definition
